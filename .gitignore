@@ -6,3 +6,6 @@
 **/.local
 **/.npm
 *.csv
+*.db
+*.duckdb
+*.wal
